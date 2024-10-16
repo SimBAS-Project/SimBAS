@@ -10,7 +10,6 @@ The individual handouts use practical example applications to show how the toolc
 
 ## Project participants
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Projektteilnehmer und ihre Beiträge sind:
 
-Please make sure to update tests as appropriate.
+[RWTH Aachen University – Lehrstuhl für Elektrochemische Energiewandlung und Speichersystemtechnik / Institut für Stromrichtertechnik und Elektrische Antriebe (ISEA)](www.isea.rwth-aachen.de)
