@@ -10,6 +10,10 @@ The individual handouts use practical example applications to show how the toolc
 
 ## Project participants
 
-Projektteilnehmer und ihre Beiträge sind:
+Project participants and their contributed tools are:
 
-[RWTH Aachen University – Lehrstuhl für Elektrochemische Energiewandlung und Speichersystemtechnik / Institut für Stromrichtertechnik und Elektrische Antriebe (ISEA)](www.isea.rwth-aachen.de)
+[RWTH Aachen University – Lehrstuhl für Elektrochemische Energiewandlung und Speichersystemtechnik / Institut für Stromrichtertechnik und Elektrische Antriebe (ISEA)](https://git.rwth-aachen.de/isea/isea-cell-and-pack-database)
+
+[Fraunhofer-Institut für integrierte Systeme und Bauelementetechnologie IISB](https://github.com/foxBMS/BaSD)
+
+[Technische Universität München (TUM) / Lehrstuhl für Elektrische Energiespeichertechnik (EES)]([https://git.rwth-aachen.de/isea/isea-cell-and-pack-database](https://gitlab.lrz.de/open-ees-ses/simses))
