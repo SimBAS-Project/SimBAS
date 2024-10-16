@@ -12,8 +12,8 @@ The individual handouts use practical example applications to show how the toolc
 
 Project participants and their contributed tools are:
 
-[RWTH Aachen University – Lehrstuhl für Elektrochemische Energiewandlung und Speichersystemtechnik / Institut für Stromrichtertechnik und Elektrische Antriebe (ISEA)](https://git.rwth-aachen.de/isea/isea-cell-and-pack-database)
+ICPD: [RWTH Aachen University – Lehrstuhl für Elektrochemische Energiewandlung und Speichersystemtechnik / Institut für Stromrichtertechnik und Elektrische Antriebe (ISEA)](https://git.rwth-aachen.de/isea/isea-cell-and-pack-database)
 
-[Fraunhofer-Institut für integrierte Systeme und Bauelementetechnologie IISB](https://github.com/foxBMS/BaSD)
+BaSD: [Fraunhofer-Institut für integrierte Systeme und Bauelementetechnologie IISB](https://github.com/foxBMS/BaSD)
 
-[Technische Universität München (TUM) / Lehrstuhl für Elektrische Energiespeichertechnik (EES)](https://gitlab.lrz.de/open-ees-ses/simses)
+SimSES: [Technische Universität München (TUM) / Lehrstuhl für Elektrische Energiespeichertechnik (EES)](https://gitlab.lrz.de/open-ees-ses/simses)
