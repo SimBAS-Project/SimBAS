@@ -1,6 +1,6 @@
 # SimBAS
 
-Hier finden sich die im Projekt SimBAS für die öffentlichkeit erstellten Dokumente.
+Here are the documents created for the public in the SimBAS project. The sources of the individual tools are also linked.
 
 ## Usage
 
