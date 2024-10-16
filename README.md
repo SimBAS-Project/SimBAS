@@ -1,4 +1,4 @@
-# SimBAS
+# SimBAS ![plot](SimBAS.png)
 
 Here are the documents created for the public in the SimBAS project. The sources of the individual tools are also linked.
 
