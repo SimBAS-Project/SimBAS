@@ -1,5 +1,4 @@
-![plot](SimBAS.png)
-
+<img src="[https://github.com/favicon.ico](https://github.com/SimBAS-Project/SimBAS/blob/main/SimBAS.png)" width="48">
 # SimBAS 
 
 Here are the documents created for the public in the SimBAS project. The sources of the individual tools are also linked.
