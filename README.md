@@ -16,4 +16,4 @@ Project participants and their contributed tools are:
 
 [Fraunhofer-Institut für integrierte Systeme und Bauelementetechnologie IISB](https://github.com/foxBMS/BaSD)
 
-[Technische Universität München (TUM) / Lehrstuhl für Elektrische Energiespeichertechnik (EES)]([https://git.rwth-aachen.de/isea/isea-cell-and-pack-database](https://gitlab.lrz.de/open-ees-ses/simses))
+[Technische Universität München (TUM) / Lehrstuhl für Elektrische Energiespeichertechnik (EES)](https://gitlab.lrz.de/open-ees-ses/simses)
