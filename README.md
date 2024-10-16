@@ -4,20 +4,11 @@ Here are the documents created for the public in the SimBAS project. The sources
 
 ## Content
 
-```python
-import foobar
+The complete documentation provides an overview of the individual tools in the toolchain and how they work in combination. 
 
-# returns 'words'
-foobar.pluralize('word')
+The individual handouts use practical example applications to show how the toolchain can be used and what the individual tools contribute to the application analysis.
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
+## Project participants
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
